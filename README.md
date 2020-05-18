@@ -1,5 +1,8 @@
 # Weather-app.vue
 
+## Clone or Download
+If you want clone or download the repo to your local machine, click on the green 'Clone or download' button.
+
 ## Project setup
 ```
 yarn install
